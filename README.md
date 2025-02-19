@@ -1,2 +1,2 @@
-# PreparedStatement-CURD-Oprations
+# PreparedStatement-CURD-Operations
 PreparedStatement  CURD Oprations
